@@ -44,6 +44,7 @@ Contributions welcome! Please open a Pull Request to suggest or update entries.
 - [🎯 Key Features & Evaluation Criteria](#key-features--evaluation-criteria)
 - [❓ Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 - [🤝 How to Contribute](#how-to-contribute)
+- [📈 Star History](#-star-history)
 - [⚠️ Disclaimer](#disclaimer)
 
 ---
@@ -176,6 +177,12 @@ Industry benchmarks (from SHRM and Workhuman) typically suggest budgeting **0.5%
 4. 🚀 Submit PR with a short explanation.
 
 ⭐ Star the repo if you find it useful!
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Recognition-n-Rewards-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Recognition-n-Rewards-Platform&type=date&legend=top-left)
 
 ---
 
