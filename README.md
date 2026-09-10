@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Recognition-n-Rewards-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Recognition-n-Rewards-Platform" alt="Stars Badge"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Recognition-n-Rewards-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Recognition-n-Rewards-Platform" alt="Stars_Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Recognition-n-Rewards-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Recognition-n-Rewards-Platform" alt="Forks Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Recognition-n-Rewards-Platform/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Recognition-n-Rewards-Platform" alt="Pull Requests Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Recognition-n-Rewards-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License Badge"/></a>
@@ -72,49 +72,49 @@ Contributions welcome! Please open a Pull Request to suggest or update entries.
 
 ## 💻 Open-Source GitHub Projects <a id="open-source-github-projects"></a>
 
-- **[Praise](https://github.com/givepraise/praise)** <a href="https://github.com/givepraise/praise/stargazers"><img src="https://img.shields.io/github/stars/givepraise/praise?style=social&color=white" alt="Praise GitHub stars" /></a>  
+- **[Praise](https://github.com/givepraise/praise)** <a href="https://github.com/givepraise/praise/stargazers"><img src="https://img.shields.io/github/stars/givepraise/praise?style=social&color=white" alt="Praise GitHub_Stars" /></a>  
   Community-oriented recognition and reward system for recognizing contributions, building peer appreciation, and fostering an active culture of gratitude and point rewards.
 
-- **[Laravel Karma Bot](https://github.com/LaravelRUS/laravel-karma-bot)** <a href="https://github.com/LaravelRUS/laravel-karma-bot/stargazers"><img src="https://img.shields.io/github/stars/LaravelRUS/laravel-karma-bot?style=social&color=white" alt="Laravel Karma Bot GitHub stars" /></a>  
+- **[Laravel Karma Bot](https://github.com/LaravelRUS/laravel-karma-bot)** <a href="https://github.com/LaravelRUS/laravel-karma-bot/stargazers"><img src="https://img.shields.io/github/stars/LaravelRUS/laravel-karma-bot?style=social&color=white" alt="Laravel Karma Bot GitHub_Stars" /></a>  
   Open-source Slack and Gitter chat bot service for peer recognition, karma point tracking, leaderboard scoring, and team appreciation.
 
-- **[Open Kudos](https://github.com/Pagepro/open-kudos)** <a href="https://github.com/Pagepro/open-kudos/stargazers"><img src="https://img.shields.io/github/stars/Pagepro/open-kudos?style=social&color=white" alt="Open Kudos GitHub stars" /></a>  
+- **[Open Kudos](https://github.com/Pagepro/open-kudos)** <a href="https://github.com/Pagepro/open-kudos/stargazers"><img src="https://img.shields.io/github/stars/Pagepro/open-kudos?style=social&color=white" alt="Open Kudos GitHub_Stars" /></a>  
   Open-source employee recognition bot built for digital teams (especially Slack). Users give and receive kudos/points that can later be exchanged for prizes and perks.
 
-- **[Deno Give Kudos](https://github.com/slack-samples/deno-give-kudos)** <a href="https://github.com/slack-samples/deno-give-kudos/stargazers"><img src="https://img.shields.io/github/stars/slack-samples/deno-give-kudos?style=social&color=white" alt="Deno Give Kudos GitHub stars" /></a>  
+- **[Deno Give Kudos](https://github.com/slack-samples/deno-give-kudos)** <a href="https://github.com/slack-samples/deno-give-kudos/stargazers"><img src="https://img.shields.io/github/stars/slack-samples/deno-give-kudos?style=social&color=white" alt="Deno Give Kudos GitHub_Stars" /></a>  
   Official Slack sample application built with Deno for sending peer kudos, recognition notes, and appreciation shoutouts across Slack channels.
 
-- **[openSUSE Kudos](https://github.com/openSUSE/kudos)** <a href="https://github.com/openSUSE/kudos/stargazers"><img src="https://img.shields.io/github/stars/openSUSE/kudos?style=social&color=white" alt="openSUSE Kudos GitHub stars" /></a>  
+- **[openSUSE Kudos](https://github.com/openSUSE/kudos)** <a href="https://github.com/openSUSE/kudos/stargazers"><img src="https://img.shields.io/github/stars/openSUSE/kudos?style=social&color=white" alt="openSUSE Kudos GitHub_Stars" /></a>  
   Community recognition software providing kudos badges, appreciation feeds, milestone tracking, and Matrix/chat bot integrations.
 
-- **[Peerly](https://github.com/joshsoftware/peerly)** <a href="https://github.com/joshsoftware/peerly/stargazers"><img src="https://img.shields.io/github/stars/joshsoftware/peerly?style=social&color=white" alt="Peerly GitHub stars" /></a>  
+- **[Peerly](https://github.com/joshsoftware/peerly)** <a href="https://github.com/joshsoftware/peerly/stargazers"><img src="https://img.shields.io/github/stars/joshsoftware/peerly?style=social&color=white" alt="Peerly GitHub_Stars" /></a>  
   Open-source peer-reward and recognition system centered on “hi5” (high-fives). Employees give limited weekly hi5s tied to company values, with badges and leaderboards.
 
-- **[Kudos Slack Bot](https://github.com/DATA-DOG/kudos-slack)** <a href="https://github.com/DATA-DOG/kudos-slack/stargazers"><img src="https://img.shields.io/github/stars/DATA-DOG/kudos-slack?style=social&color=white" alt="Kudos Slack Bot GitHub stars" /></a>  
+- **[Kudos Slack Bot](https://github.com/DATA-DOG/kudos-slack)** <a href="https://github.com/DATA-DOG/kudos-slack/stargazers"><img src="https://img.shields.io/github/stars/DATA-DOG/kudos-slack?style=social&color=white" alt="Kudos Slack Bot GitHub_Stars" /></a>  
   Lightweight Slack bot for giving coworker kudos, storing appreciation logs, and celebrating peer achievements.
 
-- **[TacoBot](https://github.com/l0rem/TacoBot)** <a href="https://github.com/l0rem/TacoBot/stargazers"><img src="https://img.shields.io/github/stars/l0rem/TacoBot?style=social&color=white" alt="TacoBot GitHub stars" /></a>  
+- **[TacoBot](https://github.com/l0rem/TacoBot)** <a href="https://github.com/l0rem/TacoBot/stargazers"><img src="https://img.shields.io/github/stars/l0rem/TacoBot?style=social&color=white" alt="TacoBot GitHub_Stars" /></a>  
   Self-hosted open-source port of the HeyTaco! Slack recognition bot, allowing teammates to send tacos as peer appreciation tokens and track leaderboard standings.
 
-- **[Slack Kudos Bot](https://github.com/MartinMcGirk/Slack-Kudos-Bot)** <a href="https://github.com/MartinMcGirk/Slack-Kudos-Bot/stargazers"><img src="https://img.shields.io/github/stars/MartinMcGirk/Slack-Kudos-Bot?style=social&color=white" alt="Slack Kudos Bot GitHub stars" /></a>  
+- **[Slack Kudos Bot](https://github.com/MartinMcGirk/Slack-Kudos-Bot)** <a href="https://github.com/MartinMcGirk/Slack-Kudos-Bot/stargazers"><img src="https://img.shields.io/github/stars/MartinMcGirk/Slack-Kudos-Bot?style=social&color=white" alt="Slack Kudos Bot GitHub_Stars" /></a>  
   Slack bot that lets teammates thank each other using custom emojis, tracks peer recognition points, and maintains real-time company leaderboards.
 
-- **[Synyx Kudos](https://github.com/synyx/kudos)** <a href="https://github.com/synyx/kudos/stargazers"><img src="https://img.shields.io/github/stars/synyx/kudos?style=social&color=white" alt="Synyx Kudos GitHub stars" /></a>  
+- **[Synyx Kudos](https://github.com/synyx/kudos)** <a href="https://github.com/synyx/kudos/stargazers"><img src="https://img.shields.io/github/stars/synyx/kudos?style=social&color=white" alt="Synyx Kudos GitHub_Stars" /></a>  
   Web application for creating and delivering personalized digital appreciation cards to celebrate colleagues, team achievements, and milestone events.
 
-- **[RewardsPlus](https://github.com/bharathwajv/RewardsPlus)** <a href="https://github.com/bharathwajv/RewardsPlus/stargazers"><img src="https://img.shields.io/github/stars/bharathwajv/RewardsPlus?style=social&color=white" alt="RewardsPlus GitHub stars" /></a>  
+- **[RewardsPlus](https://github.com/bharathwajv/RewardsPlus)** <a href="https://github.com/bharathwajv/RewardsPlus/stargazers"><img src="https://img.shields.io/github/stars/bharathwajv/RewardsPlus?style=social&color=white" alt="RewardsPlus GitHub_Stars" /></a>  
   Multi-tenant rewards hub architecture with token/points systems, gift distributions, loyalty integrations, and leadership recognition allocation.
 
-- **[Bravo](https://github.com/Codepath-BravoInc/Bravo)** <a href="https://github.com/Codepath-BravoInc/Bravo/stargazers"><img src="https://img.shields.io/github/stars/Codepath-BravoInc/Bravo?style=social&color=white" alt="Bravo GitHub stars" /></a>  
+- **[Bravo](https://github.com/Codepath-BravoInc/Bravo)** <a href="https://github.com/Codepath-BravoInc/Bravo/stargazers"><img src="https://img.shields.io/github/stars/Codepath-BravoInc/Bravo?style=social&color=white" alt="Bravo GitHub_Stars" /></a>  
   Real-time employee recognition and micro-bonus app that encourages peer appreciation, points giving, leaderboards, and redemption of rewards.
 
-- **[Have A Cookie](https://github.com/havecookie/haveacookie)** <a href="https://github.com/havecookie/haveacookie/stargazers"><img src="https://img.shields.io/github/stars/havecookie/haveacookie?style=social&color=white" alt="Have A Cookie GitHub stars" /></a>  
+- **[Have A Cookie](https://github.com/havecookie/haveacookie)** <a href="https://github.com/havecookie/haveacookie/stargazers"><img src="https://img.shields.io/github/stars/havecookie/haveacookie?style=social&color=white" alt="Have A Cookie GitHub_Stars" /></a>  
   Community rewards and peer recognition Discord bot acting as an open-source alternative to HeyTaco and Karl with cookie point allowances and reward redemption.
 
-- **[ERRS – Employee Recognition and Reward System](https://github.com/MayankRawat06/ERRS)** <a href="https://github.com/MayankRawat06/ERRS/stargazers"><img src="https://img.shields.io/github/stars/MayankRawat06/ERRS?style=social&color=white" alt="ERRS GitHub stars" /></a>  
+- **[ERRS – Employee Recognition and Reward System](https://github.com/MayankRawat06/ERRS)** <a href="https://github.com/MayankRawat06/ERRS/stargazers"><img src="https://img.shields.io/github/stars/MayankRawat06/ERRS?style=social&color=white" alt="ERRS GitHub_Stars" /></a>  
   Open-source web application for employee recognition and rewards, supporting points, feedback, and basic reward management.
 
-- **[Alignify](https://github.com/iam-tsr/alignify)** <a href="https://github.com/iam-tsr/alignify/stargazers"><img src="https://img.shields.io/github/stars/iam-tsr/alignify?style=social&color=white" alt="Alignify GitHub stars" /></a>  
+- **[Alignify](https://github.com/iam-tsr/alignify)** <a href="https://github.com/iam-tsr/alignify/stargazers"><img src="https://img.shields.io/github/stars/iam-tsr/alignify?style=social&color=white" alt="Alignify GitHub_Stars" /></a>  
   AI-powered open-source employee engagement platform with survey and feedback capabilities that can support recognition and culture insights.
 
 - **[Other recognition & kudos bots](https://github.com/search?q=employee+recognition+OR+kudos+bot+OR+peer+recognition)**  
