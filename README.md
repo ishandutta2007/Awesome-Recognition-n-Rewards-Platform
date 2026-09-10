@@ -42,53 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Bonusly](https://www.bonus.ly/)**  
-
-  Popular social recognition platform with a public activity feed, monthly point allowances, values hashtags, and a broad rewards catalog including gift cards.
-
-
-
-- **[Awardco](https://www.awardco.com/)**  
-
-  Enterprise recognition and rewards platform notable for deep Amazon Business integration, offering a vast catalog of merchandise without typical points markups.
-
-
-
-- **[Workhuman](https://www.workhuman.com/)**  
-
-  Enterprise-grade recognition platform supporting peer-to-peer awards, service milestones, life events, and continuous feedback at global scale.
-
-
-
-- **[Achievers](https://www.achievers.com/)**  
-
-  Comprehensive employee recognition and engagement platform with rewards, analytics, and culture-building tools for mid-to-large organizations.
-
-
-
-- **[Nectar](https://www.nectarhr.com/)**  
-
-  Values-driven recognition platform featuring a social feed, peer and manager recognition, and redeemable rewards focused on culture alignment.
-
-
-
-- **[Guusto](https://guusto.com/)**  
-
-  Simple, gift-first recognition solution popular for frontline and distributed teams, emphasizing easy gift-card delivery.
-
-
-
-- **[Assembly, Kudos, Empuls, Cooleaf](https://www.joinassembly.com/)**  
-
-  Additional modern recognition and rewards platforms offering peer kudos, points, catalogs, and engagement features for various company sizes.
-
-
-
-- **[Other recognition & rewards platforms](https://www.bonus.ly/)**  
-
-  Additional commercial tools covering milestones, automated awards, and integrated engagement programs.
+| Platform | Description | Starting Tier Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Bonusly](https://www.bonus.ly/)** | Social recognition platform with a public feed, monthly point allowances, core values hashtags, and global rewards. | **$3.00 / user / month** (Core plan billed annually; or $3.50/user/mo billed monthly; rewards budget funded separately) | **30-day free trial** (no credit card required; full access to Core recognition features, social activity feed, and Slack/Teams integrations; no permanent free tier) |
+| **[Awardco](https://www.awardco.com/)** | Enterprise recognition and rewards platform with native zero-markup Amazon Business catalog integration. | **$3,000 / year** (base package for up to 100 employees, effectively ~$2.50/user/month; zero markup on Amazon merchandise) | **No self-serve free tier or free trial** (evaluation via live guided demo and tailored pilot setup upon request; minimum annual contract begins at 100 users / $3,000/year) |
+| **[Workhuman](https://www.workhuman.com/)** | Global enterprise recognition platform supporting peer awards, service milestones, life events, and compliance. | **~$20,000 – $30,000 / year** base enterprise platform minimum (Workhuman benchmarks total recommended program funding at ~1% of payroll; all-inclusive platform licensing with dedicated CSM) | **No self-serve free tier or free trial** (enterprise-only solution; access requires scheduling a custom sales consultation, architecture review, and live ROI assessment) |
+| **[Achievers](https://www.achievers.com/)** | Mid-market and enterprise employee engagement platform featuring high-frequency recognition, points marketplace, and pulse analytics. | **~$5,000 / year** base subscription (for ~100–500 employee mid-market tier, plus ~$1,000–$5,000 one-time onboarding fee; rewards points funded separately) | **No self-serve free tier or free trial** (geared toward organizations with 500+ employees; platform access provided exclusively via personalized product demos and custom pilots) |
+| **[Nectar](https://www.nectarhr.com/)** | Values-driven recognition platform with peer-to-peer shoutouts, wellness challenges, and on-demand swag/gift card redemption. | **$2.75 / user / month** (Standard plan billed annually, or $4.00/user/mo billed monthly; minimum annual contract commitment typically starts around $4,000/year) | **No self-serve free tier or public trial** (qualification-based sandbox/pilot environment available through sales representative following an initial live demo) |
+| **[Guusto](https://guusto.com/)** | Flexible, gift-card-first recognition platform for frontline, hybrid, and deskless teams with zero merchant markups. | **$0 / month** on Free plan (pay face value of gifts only); paid plans start at **$125 / month** (Lite tier billed annually, or $150/mo billed monthly) | **Free forever plan** allows 1 manager/sender to send one-off gift cards via email/SMS/print to unlimited recipients with 0 platform fees; paid tiers offer a **30-day free trial** (single company trial with full automation and bulk sending) |
+| **[Assembly](https://www.joinassembly.com/)** | Culture and engagement hub offering peer recognition, 1-on-1s, culture badges, nominations, and customizable rewards. | **$2.00 / user / month** (Recognition/Connect plan billed annually, or $3.00/user/mo for Empower plan; billed monthly at $3.50/user/month) | **Free forever plan** for up to 5 members (includes unlimited peer recognitions, culture badges, Slack/MS Teams integrations, and core analytics; no credit card required) |
+| **[Kudos](https://www.kudos.com/)** | Employee recognition and engagement system centered on values-driven recognition tiers and culture analytics. | **$3.00 – $3.25 / user / month** (billed annually; minimum contract typically starts at 500 users or ~$3,000/year base platform licensing) | **No self-serve free tier or free trial** (demo-led evaluation; prospective buyers must book a customized consultation with their solutions team) |
+| **[Empuls](https://www.empuls.io/)** | All-in-one recognition, social intranet, survey, and global gift card/perks platform by Xoxoday. | **$2.00 / user / month** (Starter / Rewards & Recognition module billed annually, or $3.00/user/mo billed monthly; rewards budget funded separately) | **30-day free trial** (no credit card required; full access to recognition social intranet, shout-outs, badges, pulse surveys, and rewards catalog; no permanent free tier) |
+| **[Cooleaf](https://www.cooleaf.com/)** | Experience and recognition platform combining peer kudos, health & wellness challenges, and engagement incentives. | **~$5.00 / user / month** (estimated base tier for core recognition and challenges; annual platform commitments typically start around $3,500 – $5,000/year) | **No self-serve free tier or free trial** (evaluation requires scheduling a consultative product walkthrough and custom pilot setup) |
+| **[Matter](https://www.matterapp.com/)** | Slack- and Teams-first recognition software with feedback templates, celebration bots, and coin-based reward payouts. | **$1.00 / user / month** (Basic plan billed annually, or $2.00/user/mo billed monthly; Pro tier at $3.00/user/mo billed annually) | **Free forever plan** for unlimited users in Slack and Microsoft Teams (includes kudos feedback, core recognition coins, and Slack/Teams bots); paid features offer a **14-day free trial** (no credit card required, reverts to Free tier after 14 days) |
+| **[Motivosity](https://www.motivosity.com/)** | Peer recognition and community hub featuring ThanksMatters Visa rewards cards, 1-on-1s, and pulse surveys. | **$2.00 / user / month** (Recognize & Connect module billed annually; minimum annual platform commitment typically starts around $3,000/year) | **No self-serve free tier or free trial** (evaluation handled via scheduled live demo; guided sandbox environment available upon sales qualification) |
 
 
 
