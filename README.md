@@ -4,6 +4,16 @@
   <img src="assets/banner.svg" alt="Awesome Recognition & Rewards Platform Banner" width="100%" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Recognition-n-Rewards-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Recognition-n-Rewards-Platform" alt="Stars Badge"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Recognition-n-Rewards-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Recognition-n-Rewards-Platform" alt="Forks Badge"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Recognition-n-Rewards-Platform/pulls"><img src="https://img.shields.io/github/issues-pr/ishandutta2007/Awesome-Recognition-n-Rewards-Platform" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Recognition-n-Rewards-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License Badge"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
 ## 🌟 Top Recognition & Rewards Platform Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects for Employee Recognition, Peer-to-Peer Kudos, Spot Bonuses, and Rewards Catalogs**  
