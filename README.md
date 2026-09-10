@@ -1,5 +1,9 @@
 # Awesome-Recognition-n-Rewards-Platform
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Recognition & Rewards Platform Banner" width="100%" />
+</p>
+
 ## Top Recognition & Rewards Platform Ecosystem
 
 

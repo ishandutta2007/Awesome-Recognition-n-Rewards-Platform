@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1a0f2e" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF5E62" />
+      <stop offset="50%" stop-color="#FF9966" />
+      <stop offset="100%" stop-color="#FFD166" />
+    </linearGradient>
+    <linearGradient id="purpleGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A2387" />
+      <stop offset="50%" stop-color="#E94057" />
+      <stop offset="100%" stop-color="#F27121" />
+    </linearGradient>
+    <linearGradient id="cardGrad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f293d" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.95" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="16" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes floatUp {
+      0%, 100% { transform: translateY(0px) scale(1); }
+      50% { transform: translateY(-10px) scale(1.02); }
+    }
+    @keyframes floatDown {
+      0%, 100% { transform: translateY(0px) scale(1); }
+      50% { transform: translateY(8px) scale(0.99); }
+    }
+    @keyframes pulseGlow {
+      0%, 100% { opacity: 0.25; }
+      50% { opacity: 0.65; }
+    }
+    .floating-card-1 { animation: floatUp 5s ease-in-out infinite; transform-origin: center; }
+    .floating-card-2 { animation: floatDown 6s ease-in-out infinite; transform-origin: center; }
+    .pulsing-glow { animation: pulseGlow 4s ease-in-out infinite; }
+    .title-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; }
+    .sub-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; }
+    .tag-badge { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="420" rx="24" fill="url(#bgGrad)" />
+  
+  <!-- Ambient glow spheres -->
+  <circle cx="180" cy="120" r="160" fill="#8A2387" opacity="0.18" filter="url(#softGlow)" class="pulsing-glow" />
+  <circle cx="1050" cy="300" r="180" fill="#F27121" opacity="0.18" filter="url(#softGlow)" class="pulsing-glow" />
+  <circle cx="600" cy="210" r="200" fill="#00f2fe" opacity="0.08" filter="url(#softGlow)" />
+
+  <!-- Grid Pattern Overlay -->
+  <g opacity="0.05" stroke="#ffffff" stroke-width="1">
+    <line x1="0" y1="70" x2="1200" y2="70" />
+    <line x1="0" y1="140" x2="1200" y2="140" />
+    <line x1="0" y1="210" x2="1200" y2="210" />
+    <line x1="0" y1="280" x2="1200" y2="280" />
+    <line x1="0" y1="350" x2="1200" y2="350" />
+    <line x1="150" y1="0" x2="150" y2="420" />
+    <line x1="300" y1="0" x2="300" y2="420" />
+    <line x1="450" y1="0" x2="450" y2="420" />
+    <line x1="600" y1="0" x2="600" y2="420" />
+    <line x1="750" y1="0" x2="750" y2="420" />
+    <line x1="900" y1="0" x2="900" y2="420" />
+    <line x1="1050" y1="0" x2="1050" y2="420" />
+  </g>
+
+  <!-- Left Floating Card: Kudos Given -->
+  <g class="floating-card-1" transform="translate(60, 110)">
+    <rect width="235" height="185" rx="16" fill="url(#cardGrad1)" stroke="#374151" stroke-width="1.5" />
+    <circle cx="42" cy="42" r="18" fill="#10B981" fill-opacity="0.2" />
+    <text x="42" y="48" font-size="20" text-anchor="middle">🎉</text>
+    <text x="72" y="38" fill="#9CA3AF" font-size="12" class="tag-badge">PEER KUDOS</text>
+    <text x="72" y="54" fill="#F9FAFB" font-size="13" font-weight="bold" class="title-text">+50 Points Awarded</text>
+    
+    <line x1="22" y1="75" x2="213" y2="75" stroke="#374151" stroke-width="1" />
+    
+    <text x="24" y="102" fill="#E5E7EB" font-size="13" class="sub-text">"Outstanding launch support!</text>
+    <text x="24" y="122" fill="#E5E7EB" font-size="13" class="sub-text">True team champion! 🚀"</text>
+    
+    <rect x="22" y="140" width="85" height="24" rx="12" fill="#8B5CF6" fill-opacity="0.25" />
+    <text x="64" y="156" fill="#C4B5FD" font-size="11" text-anchor="middle" class="tag-badge">#Excellence</text>
+
+    <rect x="115" y="140" width="85" height="24" rx="12" fill="#EC4899" fill-opacity="0.25" />
+    <text x="157" y="156" fill="#FBCFE8" font-size="11" text-anchor="middle" class="tag-badge">#Teamwork</text>
+  </g>
+
+  <!-- Right Floating Card: Milestone Reward -->
+  <g class="floating-card-2" transform="translate(905, 115)">
+    <rect width="245" height="185" rx="16" fill="url(#cardGrad1)" stroke="#374151" stroke-width="1.5" />
+    <circle cx="44" cy="42" r="18" fill="#F59E0B" fill-opacity="0.2" />
+    <text x="44" y="48" font-size="20" text-anchor="middle">🏆</text>
+    <text x="74" y="38" fill="#9CA3AF" font-size="12" class="tag-badge">SERVICE AWARD</text>
+    <text x="74" y="54" fill="#F9FAFB" font-size="13" font-weight="bold" class="title-text">5-Year Milestone</text>
+    
+    <line x1="22" y1="75" x2="223" y2="75" stroke="#374151" stroke-width="1" />
+    
+    <text x="24" y="102" fill="#E5E7EB" font-size="13" class="sub-text">🎁 Global Catalog Perk</text>
+    <text x="24" y="123" fill="#10B981" font-size="13" font-weight="bold" class="title-text">$250 Gift Card Redeemed</text>
+    
+    <rect x="22" y="140" width="201" height="26" rx="8" fill="#374151" fill-opacity="0.6" />
+    <text x="122" y="157" fill="#6EE7B7" font-size="11" text-anchor="middle" class="tag-badge">✓ Zero-Markup Amazon / Visa</text>
+  </g>
+
+  <!-- Center Content -->
+  <g text-anchor="middle">
+    <!-- Category Badge -->
+    <rect x="430" y="55" width="340" height="34" rx="17" fill="url(#purpleGrad)" opacity="0.9" />
+    <text x="600" y="77" fill="#FFFFFF" font-size="13" font-weight="bold" letter-spacing="1.5" class="tag-badge">✨ RECOGNITION &amp; REWARDS ECOSYSTEM ✨</text>
+
+    <!-- Main Title -->
+    <text x="600" y="150" fill="#FFFFFF" font-size="42" font-weight="800" class="title-text" filter="url(#glow)">
+      Awesome Recognition
+    </text>
+    <text x="600" y="200" fill="url(#accentGrad)" font-size="42" font-weight="800" class="title-text">
+      &amp; Rewards Platform
+    </text>
+
+    <!-- Subtitle -->
+    <text x="600" y="248" fill="#94A3B8" font-size="16" class="sub-text">
+      Peer-to-Peer Kudos, Spot Bonuses, Culture Building &amp; Redeemable Rewards
+    </text>
+
+    <!-- Bottom Feature Pills -->
+    <g transform="translate(340, 285)">
+      <!-- Pill 1 -->
+      <rect x="0" y="0" width="160" height="32" rx="16" fill="#1E293B" stroke="#475569" stroke-width="1" />
+      <text x="80" y="21" fill="#E2E8F0" font-size="12" class="tag-badge">🤝 Peer-to-Peer Kudos</text>
+
+      <!-- Pill 2 -->
+      <rect x="180" y="0" width="160" height="32" rx="16" fill="#1E293B" stroke="#475569" stroke-width="1" />
+      <text x="260" y="21" fill="#E2E8F0" font-size="12" class="tag-badge">🎁 Global Gift Cards</text>
+
+      <!-- Pill 3 -->
+      <rect x="360" y="0" width="160" height="32" rx="16" fill="#1E293B" stroke="#475569" stroke-width="1" />
+      <text x="440" y="21" fill="#E2E8F0" font-size="12" class="tag-badge">⚡ Slack &amp; Teams Bots</text>
+    </g>
+
+    <!-- Market Badge -->
+    <text x="600" y="365" fill="#64748B" font-size="13" class="sub-text">
+      Curated Market Leaders &amp; Open-Source Projects • Updated September 2026
+    </text>
+  </g>
+</svg>
