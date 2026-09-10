@@ -42,6 +42,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+> **Market Overview & Structure**: The global employee recognition software market is estimated at **$21.4 Billion in 2026** (with the broader employee rewards and incentives ecosystem exceeding **$80+ Billion**). The sector is **moderately to highly fragmented** rather than a "winner-take-all" market—ranging from multibillion-dollar enterprise stalwarts (Workhuman, Achievers) to rapid-growth mid-market disruptors (Awardco, Bonusly, Nectar) and lightweight chat-first bots (Matter), differentiated by company scale, reward fulfillment catalogs, and frontline versus knowledge-worker requirements.
+
 | Platform | Description | Company Size (Revenue / Valuation) | Starting Tier Pricing | Free Tier / Free Trial Limits |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Workhuman](https://www.workhuman.com/)** | Global enterprise recognition platform supporting peer awards, service milestones, life events, and compliance. | **$1.1B+ Revenue / ~$1.2B+ Valuation** | **~$20,000 – $30,000 / year** base enterprise platform minimum (Workhuman benchmarks total recommended program funding at ~1% of payroll; all-inclusive platform licensing with dedicated CSM) | **No self-serve free tier or free trial** (enterprise-only solution; access requires scheduling a custom sales consultation, architecture review, and live ROI assessment) |
